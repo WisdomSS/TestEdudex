@@ -1,0 +1,2207 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<program xmlns="http://studieData.nl/schema/edudex/program" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://studieData.nl/schema/edudex/program http://studieData.nl/schema/edudex/program.xsd">
+  <editor>hvangalen@ncoi.nl</editor>
+  <expires xsi:nil="true" />
+  <format>1.6.4</format>
+  <generator>SQL Server 2014</generator>
+  <inPublication>true</inPublication>
+  <lastEdited>2019-05-05T09:00:02</lastEdited>
+  <programAdmission>
+    <applicationOpen>true</applicationOpen>
+    <applicationType>individual</applicationType>
+    <maxNumberOfParticipants>5</maxNumberOfParticipants>
+    <minNumberOfParticipants>1</minNumberOfParticipants>
+    <paymentDue>up-front</paymentDue>
+    <requiredLevel>none</requiredLevel>
+    <startDateDetermination>fixed starting date</startDateDetermination>
+  </programAdmission>
+  <programClassification>
+    <accreditation>
+      <organization>
+      </organization>
+    </accreditation>
+    <degree>certificate</degree>
+    <orgUnitId>btvo</orgUnitId>
+    <programDuration unit="day">4</programDuration>
+    <programForm>part-time</programForm>
+    <programId>B-AUL1d</programId>
+    <programLevel>none</programLevel>
+    <programLocation>Amsterdam</programLocation>
+    <programLocation>Arnhem</programLocation>
+    <programLocation>Den Haag</programLocation>
+    <programLocation>Eindhoven</programLocation>
+    <programLocation>Groningen</programLocation>
+    <programLocation>Nijmegen</programLocation>
+    <programLocation>Rotterdam</programLocation>
+    <programLocation>Utrecht</programLocation>
+    <programLocation>Zwolle</programLocation>
+    <programType>training</programType>
+    <startingYear>2019</startingYear>
+    <targetSector>S</targetSector>
+  </programClassification>
+  <programContacts>
+    <contactData>
+      <contactName>Afdeling A&amp;V</contactName>
+      <email>info@bvo.nl</email>
+      <role>Afdeling Advies &amp; Voorlichting</role>
+      <subject>curriculum</subject>
+      <subject>course schedule</subject>
+    </contactData>
+  </programContacts>
+  <programCurriculum>
+    <instructionLanguage>
+      <languageCode>nl</languageCode>
+      <percentage>100</percentage>
+    </instructionLanguage>
+    <teacher>
+      <id>0</id>
+      <name>Unassigned</name>
+    </teacher>
+  </programCurriculum>
+  <programDescriptions>
+    <programName xml:lang="nl">Executive Master Authentiek Leiderschap - Dag</programName>
+    <programSummaryText xml:lang="nl">Je bent een ambitieuze professional op HBO- of WO-niveau en je wilt werken aan het versterken van jouw impact op je omgeving. Je wilt in je communicatie en overkomen nog meer van jouw persoonlijke ...</programSummaryText>
+    <programSummaryHtml xml:lang="nl">&lt;p&gt;Je bent een ambitieuze professional op HBO- of WO-niveau en je wilt werken aan het versterken van jouw impact op je omgeving. Je wilt in je communicatie en overkomen nog meer van jouw persoonlijke kracht laten zien. Je hebt minimaal 5 jaar werkervaring en bent in staat tot zelfreflectie. Je bent zelfsturend en bereid tot het aangaan van uitdagingen.&lt;/p&gt;</programSummaryHtml>
+    <programDescriptionText xml:lang="nl">Wil jij de impact op je omgeving vergroten? Richting en houvast geven in veranderende tijden? In dit Executive Masterprogramma werk je daar bij uitstek aan. Na afloop van dit programma ben je je beter bewust van jouw persoonlijke impact en hoe je dat effectief inzet. Door authenticiteit ervaren mensen geloofwaardigheid en betrouwbaarheid. Hiermee bereik je meer. Bij aanvang vul je een evidence-based persoonlijkheidstest in (Birkman-methode). Dit levert een waardevol rapport op, dat je persoonlijk met een gecertificeerde coach doorneemt. In de bijeenkomsten en tijdens de individuele coaching leer je jouw authenticiteit in te zetten voor effectief leiderschap. Gedurende het hele programma ga je veelvuldig met je persoonlijke coach in gesprek. Naast het diploma Executive Master Authentiek Leiderschap  krijg je na afloop ook een Mastercertificaat als proof of performance.</programDescriptionText>
+    <programDescriptionHtml xml:lang="nl">&lt;p&gt;Wil jij de impact op je omgeving vergroten? Richting en houvast geven in veranderende tijden? In dit Executive Masterprogramma werk je daar bij uitstek aan. Na afloop van dit programma ben je je beter bewust van jouw persoonlijke impact en hoe je dat effectief inzet. Door authenticiteit ervaren mensen geloofwaardigheid en betrouwbaarheid. Hiermee bereik je meer. Bij aanvang vul je een evidence-based persoonlijkheidstest in (Birkman-methode). Dit levert een waardevol rapport op, dat je persoonlijk met een gecertificeerde coach doorneemt. In de bijeenkomsten en tijdens de individuele coaching leer je jouw authenticiteit in te zetten voor effectief leiderschap. Gedurende het hele programma ga je veelvuldig met je persoonlijke coach in gesprek. Naast het diploma Executive Master Authentiek Leiderschap  krijg je na afloop ook een Mastercertificaat als proof of performance.&lt;/p&gt;</programDescriptionHtml>
+    <subjectText>
+      <subject>characteristics</subject>
+      <descriptionText xml:lang="nl">HBO-deelprogramma</descriptionText>
+    </subjectText>
+    <subjectText>
+      <subject>commercial partners</subject>
+      <descriptionText xml:lang="nl">Brand Owner</descriptionText>
+    </subjectText>
+    <subjectText>
+      <subject>graduation</subject>
+      <descriptionHtml xml:lang="nl">&lt;p&gt;Je rondt dit trainingsprogramma af met een persoonlijk ontwikkelplan. Een succesvolle afronding van je ontwikkelplan resulteert in het diploma ‘Executive Master Authentiek Leiderschap ’ van Boertien Vergouwen Overduin. Daarnaast ontvang je een Mastercertificaat. Op het moment dat je verder wilt studeren in een Masteropleiding van NCOI University of Business Studies en je toelaatbaar bent tot deze opleiding, kun je dit trainingsprogramma inbrengen als vrijstelling voor het leiderschapsprogramma binnen diverse Masteropleidingen waaronder Master of Business Administration (MBA), of Master in Marketingmanagement (MMM). Hiermee biedt dit Executive Masterprogramma unieke meerwaarde op Masterniveau en ben je verzekerd van een uitstekend niveau.&lt;/p&gt;</descriptionHtml>
+      <descriptionText xml:lang="nl">Je rondt dit trainingsprogramma af met een persoonlijk ontwikkelplan. Een succesvolle afronding van je ontwikkelplan resulteert in het diploma ‘Executive Master Authentiek Leiderschap ’ van Boertien Vergouwen Overduin. Daarnaast ontvang je een Mastercertificaat. Op het moment dat je verder wilt studeren in een Masteropleiding van NCOI University of Business Studies en je toelaatbaar bent tot deze opleiding, kun je dit trainingsprogramma inbrengen als vrijstelling voor het leiderschapsprogramma binnen diverse Masteropleidingen waaronder Master of Business Administration (MBA), of Master in Marketingmanagement (MMM). Hiermee biedt dit Executive Masterprogramma unieke meerwaarde op Masterniveau en ben je verzekerd van een uitstekend niveau.</descriptionText>
+    </subjectText>
+    <subjectText>
+      <subject>objectives</subject>
+      <descriptionHtml xml:lang="nl">&lt;p&gt;Dit programma is zeer persoonsgericht en wordt gebaseerd op jouw leerdoelen. Om deze leerdoelen inzichtelijk te krijgen start het programma met de persoonlijke intake. Dit coachingsgesprek wordt gevoerd over de uitkomsten van de evidence-based leiderschapstest. Jouw antwoorden worden verwerkt tot een uitgebreid en persoonlijk rapport. Je bespreekt dit samen met een coach, zodat je je persoonlijke ontwikkelpunten koppelt aan de onderdelen van het programma.&lt;/p&gt;&lt;p&gt;Tijdens het programma kijk je naar de wisselwerking tussen gedrag en invloed. Je krijgt inzicht in beïnvloeding, de psychologische theorie erachter en de toepassing ervan. Zo leer je overtuigend en succesvol te opereren. Je vergroot hiermee je impact en invloed. Verder verbeter je de wijze waarop je invulling geeft aan je rol tijdens veranderprocessen binnen de organisatie. Je leert om jezelf te blijven bij veranderingen en om goed om te gaan met weerstand. Aan de hand van praktijksituaties ga je aan de slag met vaardigheden, zoals effectief beïnvloeden en overtuigen.&lt;/p&gt;&lt;p&gt;Het programma is verrijkt met 3 coachingsgesprekken, waarbij jouw ontwikkeling centraal staat. Je koppelt opgedane inzichten aan je ervaring en gaat diep in op je ontwikkelpunten. Door deze diepgaande gesprekken versterk je jezelf als een authentieke professional.&lt;/p&gt;&lt;p&gt;Je sluit af met een actieplan, waarin je samen met je trainer je persoonlijk ontwikkelpad beschrijft op grond van de gesprekken en je visie op leiderschap. Zo borg je dat je je nieuwe vaardigheden toepast in de dagelijkse praktijk.&lt;/p&gt;</descriptionHtml>
+      <descriptionText xml:lang="nl">Dit programma is zeer persoonsgericht en wordt gebaseerd op jouw leerdoelen. Om deze leerdoelen inzichtelijk te krijgen start het programma met de persoonlijke intake. Dit coachingsgesprek wordt gevoerd over de uitkomsten van de evidence-based leiderschapstest. Jouw antwoorden worden verwerkt tot een uitgebreid en persoonlijk rapport. Je bespreekt dit samen met een coach, zodat je je persoonlijke ontwikkelpunten koppelt aan de onderdelen van het programma.
+Tijdens het programma kijk je naar de wisselwerking tussen gedrag en invloed. Je krijgt inzicht in beïnvloeding, de psychologische theorie erachter en de toepassing ervan. Zo leer je overtuigend en succesvol te opereren. Je vergroot hiermee je impact en invloed. Verder verbeter je de wijze waarop je invulling geeft aan je rol tijdens veranderprocessen binnen de organisatie. Je leert om jezelf te blijven bij veranderingen en om goed om te gaan met weerstand. Aan de hand van praktijksituaties ga je aan de slag met vaardigheden, zoals effectief beïnvloeden en overtuigen.
+Het programma is verrijkt met 3 coachingsgesprekken, waarbij jouw ontwikkeling centraal staat. Je koppelt opgedane inzichten aan je ervaring en gaat diep in op je ontwikkelpunten. Door deze diepgaande gesprekken versterk je jezelf als een authentieke professional.
+Je sluit af met een actieplan, waarin je samen met je trainer je persoonlijk ontwikkelpad beschrijft op grond van de gesprekken en je visie op leiderschap. Zo borg je dat je je nieuwe vaardigheden toepast in de dagelijkse praktijk.</descriptionText>
+    </subjectText>
+    <subjectText>
+      <subject>program guide</subject>
+      <descriptionHtml xml:lang="nl">&lt;p&gt;In dit programma komen de volgende onderwerpen aan bod:&lt;/p&gt;
+
+Persoonlijke intake
+&lt;ul&gt;&lt;li&gt;Vastleggen leerdoelen&lt;/li&gt;&lt;li&gt;Persoonlijke ontwikkelvraag&lt;/li&gt;&lt;li&gt;Birkman-persoonlijkheidsinstrument&lt;/li&gt;&lt;li&gt;Persoonlijke rapportage&lt;/li&gt;&lt;li&gt;Persoonlijk consult&lt;/li&gt;&lt;/ul&gt;
+
+Effectief Beïnvloeden en Overtuigen
+&lt;p&gt;(2 dagen)&lt;/p&gt;&lt;ul&gt;&lt;li&gt;De psychologie van beïnvloeding&lt;/li&gt;&lt;li&gt;Gedrag en invloed&lt;/li&gt;&lt;li&gt;Beïnvloeden van veranderingen&lt;/li&gt;&lt;li&gt;Sturen en overtuigen in veranderingen&lt;/li&gt;&lt;li&gt;Invloed door inspiratie&lt;/li&gt;&lt;li&gt;Overtuigend argumenteren&lt;/li&gt;&lt;li&gt;Invloed en persoonlijkheid&lt;/li&gt;&lt;li&gt;Politiek en succesvol opereren&lt;/li&gt;&lt;li&gt;Invloed, overtuiging en leiderschap&lt;/li&gt;&lt;li&gt;Vergroten van impact en invloed&lt;/li&gt;&lt;/ul&gt;
+
+Leiderschap bij Verandering
+&lt;p&gt;(2 dagen)&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Visie op organisatie en verandering&lt;/li&gt;&lt;li&gt;Veranderstrategieën&lt;/li&gt;&lt;li&gt;Bouwstenen van verandermanagement&lt;/li&gt;&lt;li&gt;Veranderprocessen en -fases&lt;/li&gt;&lt;li&gt;Veranderen in verschillende typen organisaties&lt;/li&gt;&lt;li&gt;Implementatie van verandering&lt;/li&gt;&lt;li&gt;Dynamiek bij veranderprocessen&lt;/li&gt;&lt;li&gt;Methoden om met weerstand om te gaan&lt;/li&gt;&lt;li&gt;Effectief leiderschap bij verandering&lt;/li&gt;&lt;li&gt;Hoe versterk je je veranderrol&lt;/li&gt;&lt;/ul&gt;
+
+Individuele coaching
+&lt;p&gt;(3 coachingsgesprekken)&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Persoonlijke aandacht voor jouw leervraag&lt;/li&gt;&lt;li&gt;In gesprek met een expert&lt;/li&gt;&lt;li&gt;Verdiepend inzicht in jouw Birkman-rapportage&lt;/li&gt;&lt;li&gt;Uitdagend én ondersteunend&lt;/li&gt;&lt;li&gt;Concrete opbrengst voor jouw volgende stap&lt;/li&gt;&lt;/ul&gt;
+
+Eindopdracht
+&lt;ul&gt;&lt;li&gt;Zelfreflectie&lt;/li&gt;&lt;li&gt;Eigen visie op leiderschap&lt;/li&gt;&lt;li&gt;Persoonlijk ontwikkelpad en actieplan&lt;/li&gt;&lt;/ul&gt;
+
+</descriptionHtml>
+      <descriptionText xml:lang="nl">In dit programma komen de volgende onderwerpen aan bod:
+
+Persoonlijke intake
+
+o Vastleggen leerdoelen
+o Persoonlijke ontwikkelvraag
+o Birkman-persoonlijkheidsinstrument
+o Persoonlijke rapportage
+o Persoonlijk consult
+
+Effectief Beïnvloeden en Overtuigen
+
+(2 dagen)
+o De psychologie van beïnvloeding
+o Gedrag en invloed
+o Beïnvloeden van veranderingen
+o Sturen en overtuigen in veranderingen
+o Invloed door inspiratie
+o Overtuigend argumenteren
+o Invloed en persoonlijkheid
+o Politiek en succesvol opereren
+o Invloed, overtuiging en leiderschap
+o Vergroten van impact en invloed
+
+Leiderschap bij Verandering
+
+(2 dagen)
+o Visie op organisatie en verandering
+o Veranderstrategieën
+o Bouwstenen van verandermanagement
+o Veranderprocessen en -fases
+o Veranderen in verschillende typen organisaties
+o Implementatie van verandering
+o Dynamiek bij veranderprocessen
+o Methoden om met weerstand om te gaan
+o Effectief leiderschap bij verandering
+o Hoe versterk je je veranderrol
+
+Individuele coaching
+
+(3 coachingsgesprekken)
+o Persoonlijke aandacht voor jouw leervraag
+o In gesprek met een expert
+o Verdiepend inzicht in jouw Birkman-rapportage
+o Uitdagend én ondersteunend
+o Concrete opbrengst voor jouw volgende stap
+
+Eindopdracht
+
+o Zelfreflectie
+o Eigen visie op leiderschap
+o Persoonlijk ontwikkelpad en actieplan</descriptionText>
+    </subjectText>
+    <subjectText>
+      <subject>short program</subject>
+      <descriptionText xml:lang="nl">B-AUL|Executive Master Authentiek Leiderschap</descriptionText>
+    </subjectText>
+    <media>
+      <type>website</type>
+      <url>https://www.bvo.nl/training/executive-master-authentiek-leiderschap.html</url>
+    </media>
+    <webLink xml:lang="nl">https://www.bvo.nl/training/executive-master-authentiek-leiderschap.html</webLink>
+  </programDescriptions>
+  <programSchedule>
+    <genericProgramRun>
+      <contactHoursPartOfDay>morning</contactHoursPartOfDay>
+      <contactHoursPartOfDay>afternoon</contactHoursPartOfDay>
+      <cost>
+        <amount>90</amount>
+        <amountVAT>8.1</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>study material</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>90</VATExemptAmount>
+        <VATExemptAmountVAT>8.1</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>100</amount>
+        <amountVAT>21</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>registration fee</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>110</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>150</amount>
+        <amountVAT>13.5</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>lunch</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>150</VATExemptAmount>
+        <VATExemptAmountVAT>13.5</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>177</amount>
+        <amountVAT>37.17</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>location</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>194.7</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>225</amount>
+        <amountVAT>47.25</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>examination</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>247.5</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>2990</amount>
+        <amountVAT>627.9</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>tuition fee</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>3289</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <courseDay>
+        <id>B-AUL1dMA</id>
+        <dayOfTheWeek>Monday</dayOfTheWeek>
+        <startTime>09:30:00</startTime>
+        <endTime>16:30:00</endTime>
+      </courseDay>
+      <courseDay>
+        <id>B-AUL1dDO</id>
+        <dayOfTheWeek>Thursday</dayOfTheWeek>
+        <startTime>09:30:00</startTime>
+        <endTime>16:30:00</endTime>
+      </courseDay>
+      <courseDay>
+        <id>B-AUL1dDI</id>
+        <dayOfTheWeek>Tuesday</dayOfTheWeek>
+        <startTime>09:30:00</startTime>
+        <endTime>16:30:00</endTime>
+      </courseDay>
+      <courseDay>
+        <id>B-AUL1dWO</id>
+        <dayOfTheWeek>Wednesday</dayOfTheWeek>
+        <startTime>09:30:00</startTime>
+        <endTime>16:30:00</endTime>
+      </courseDay>
+      <numberOfContactSessions>8</numberOfContactSessions>
+    </genericProgramRun>
+    <programRun>
+      <id>2494431</id>
+      <status>application opened</status>
+      <startDate isFinal="true">2020-03-05</startDate>
+      <endDate isFinal="true">2020-04-16</endDate>
+      <contactHoursPartOfDay>morning</contactHoursPartOfDay>
+      <contactHoursPartOfDay>afternoon</contactHoursPartOfDay>
+      <cost>
+        <amount>90</amount>
+        <amountVAT>8.1</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>study material</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>90</VATExemptAmount>
+        <VATExemptAmountVAT>8.1</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>100</amount>
+        <amountVAT>21</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>registration fee</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>110</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>150</amount>
+        <amountVAT>13.5</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>lunch</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>150</VATExemptAmount>
+        <VATExemptAmountVAT>13.5</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>177</amount>
+        <amountVAT>37.17</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>location</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>194.7</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>225</amount>
+        <amountVAT>47.25</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>examination</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>247.5</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>2990</amount>
+        <amountVAT>627.9</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>tuition fee</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>3289</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <location>
+        <city>Zwolle</city>
+      </location>
+      <numberOfContactSessions>8</numberOfContactSessions>
+    </programRun>
+    <programRun>
+      <id>2494418</id>
+      <status>application opened</status>
+      <startDate isFinal="true">2019-12-03</startDate>
+      <endDate isFinal="true">2020-01-21</endDate>
+      <contactHoursPartOfDay>morning</contactHoursPartOfDay>
+      <contactHoursPartOfDay>afternoon</contactHoursPartOfDay>
+      <cost>
+        <amount>90</amount>
+        <amountVAT>8.1</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>study material</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>90</VATExemptAmount>
+        <VATExemptAmountVAT>8.1</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>100</amount>
+        <amountVAT>21</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>registration fee</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>110</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>150</amount>
+        <amountVAT>13.5</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>lunch</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>150</VATExemptAmount>
+        <VATExemptAmountVAT>13.5</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>177</amount>
+        <amountVAT>37.17</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>location</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>194.7</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>225</amount>
+        <amountVAT>47.25</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>examination</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>247.5</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>2990</amount>
+        <amountVAT>627.9</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>tuition fee</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>3289</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <location>
+        <city>Zwolle</city>
+      </location>
+      <numberOfContactSessions>8</numberOfContactSessions>
+    </programRun>
+    <programRun>
+      <id>2494426</id>
+      <status>application opened</status>
+      <startDate isFinal="true">2020-03-05</startDate>
+      <endDate isFinal="true">2020-04-16</endDate>
+      <contactHoursPartOfDay>morning</contactHoursPartOfDay>
+      <contactHoursPartOfDay>afternoon</contactHoursPartOfDay>
+      <cost>
+        <amount>90</amount>
+        <amountVAT>8.1</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>study material</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>90</VATExemptAmount>
+        <VATExemptAmountVAT>8.1</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>100</amount>
+        <amountVAT>21</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>registration fee</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>110</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>150</amount>
+        <amountVAT>13.5</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>lunch</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>150</VATExemptAmount>
+        <VATExemptAmountVAT>13.5</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>177</amount>
+        <amountVAT>37.17</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>location</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>194.7</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>225</amount>
+        <amountVAT>47.25</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>examination</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>247.5</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>2990</amount>
+        <amountVAT>627.9</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>tuition fee</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>3289</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <location>
+        <city>Groningen</city>
+      </location>
+      <numberOfContactSessions>8</numberOfContactSessions>
+    </programRun>
+    <programRun>
+      <id>2494405</id>
+      <status>application opened</status>
+      <startDate isFinal="true">2019-09-02</startDate>
+      <endDate isFinal="true">2019-10-21</endDate>
+      <contactHoursPartOfDay>morning</contactHoursPartOfDay>
+      <contactHoursPartOfDay>afternoon</contactHoursPartOfDay>
+      <cost>
+        <amount>90</amount>
+        <amountVAT>8.1</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>study material</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>90</VATExemptAmount>
+        <VATExemptAmountVAT>8.1</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>100</amount>
+        <amountVAT>21</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>registration fee</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>110</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>150</amount>
+        <amountVAT>13.5</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>lunch</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>150</VATExemptAmount>
+        <VATExemptAmountVAT>13.5</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>177</amount>
+        <amountVAT>37.17</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>location</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>194.7</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>225</amount>
+        <amountVAT>47.25</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>examination</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>247.5</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>2990</amount>
+        <amountVAT>627.9</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>tuition fee</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>3289</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <location>
+        <city>Nijmegen</city>
+      </location>
+      <numberOfContactSessions>8</numberOfContactSessions>
+    </programRun>
+    <programRun>
+      <id>2494429</id>
+      <status>application opened</status>
+      <startDate isFinal="true">2020-03-05</startDate>
+      <endDate isFinal="true">2020-04-16</endDate>
+      <contactHoursPartOfDay>morning</contactHoursPartOfDay>
+      <contactHoursPartOfDay>afternoon</contactHoursPartOfDay>
+      <cost>
+        <amount>90</amount>
+        <amountVAT>8.1</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>study material</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>90</VATExemptAmount>
+        <VATExemptAmountVAT>8.1</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>100</amount>
+        <amountVAT>21</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>registration fee</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>110</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>150</amount>
+        <amountVAT>13.5</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>lunch</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>150</VATExemptAmount>
+        <VATExemptAmountVAT>13.5</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>177</amount>
+        <amountVAT>37.17</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>location</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>194.7</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>225</amount>
+        <amountVAT>47.25</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>examination</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>247.5</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>2990</amount>
+        <amountVAT>627.9</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>tuition fee</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>3289</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <location>
+        <city>Utrecht</city>
+      </location>
+      <numberOfContactSessions>8</numberOfContactSessions>
+    </programRun>
+    <programRun>
+      <id>2494399</id>
+      <status>application opened</status>
+      <startDate isFinal="true">2019-09-02</startDate>
+      <endDate isFinal="true">2019-10-21</endDate>
+      <contactHoursPartOfDay>morning</contactHoursPartOfDay>
+      <contactHoursPartOfDay>afternoon</contactHoursPartOfDay>
+      <cost>
+        <amount>90</amount>
+        <amountVAT>8.1</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>study material</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>90</VATExemptAmount>
+        <VATExemptAmountVAT>8.1</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>100</amount>
+        <amountVAT>21</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>registration fee</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>110</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>150</amount>
+        <amountVAT>13.5</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>lunch</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>150</VATExemptAmount>
+        <VATExemptAmountVAT>13.5</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>177</amount>
+        <amountVAT>37.17</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>location</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>194.7</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>225</amount>
+        <amountVAT>47.25</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>examination</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>247.5</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>2990</amount>
+        <amountVAT>627.9</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>tuition fee</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>3289</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <location>
+        <city>Groningen</city>
+      </location>
+      <numberOfContactSessions>8</numberOfContactSessions>
+    </programRun>
+    <programRun>
+      <id>2494433</id>
+      <status>application opened</status>
+      <startDate isFinal="true">2020-03-05</startDate>
+      <endDate isFinal="true">2020-04-16</endDate>
+      <contactHoursPartOfDay>morning</contactHoursPartOfDay>
+      <contactHoursPartOfDay>afternoon</contactHoursPartOfDay>
+      <cost>
+        <amount>90</amount>
+        <amountVAT>8.1</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>study material</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>90</VATExemptAmount>
+        <VATExemptAmountVAT>8.1</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>100</amount>
+        <amountVAT>21</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>registration fee</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>110</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>150</amount>
+        <amountVAT>13.5</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>lunch</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>150</VATExemptAmount>
+        <VATExemptAmountVAT>13.5</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>177</amount>
+        <amountVAT>37.17</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>location</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>194.7</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>225</amount>
+        <amountVAT>47.25</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>examination</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>247.5</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>2990</amount>
+        <amountVAT>627.9</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>tuition fee</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>3289</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <location>
+        <city>Den Haag</city>
+      </location>
+      <numberOfContactSessions>8</numberOfContactSessions>
+    </programRun>
+    <programRun>
+      <id>2494417</id>
+      <status>application opened</status>
+      <startDate isFinal="true">2019-12-03</startDate>
+      <endDate isFinal="true">2020-01-21</endDate>
+      <contactHoursPartOfDay>morning</contactHoursPartOfDay>
+      <contactHoursPartOfDay>afternoon</contactHoursPartOfDay>
+      <cost>
+        <amount>90</amount>
+        <amountVAT>8.1</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>study material</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>90</VATExemptAmount>
+        <VATExemptAmountVAT>8.1</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>100</amount>
+        <amountVAT>21</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>registration fee</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>110</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>150</amount>
+        <amountVAT>13.5</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>lunch</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>150</VATExemptAmount>
+        <VATExemptAmountVAT>13.5</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>177</amount>
+        <amountVAT>37.17</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>location</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>194.7</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>225</amount>
+        <amountVAT>47.25</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>examination</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>247.5</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>2990</amount>
+        <amountVAT>627.9</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>tuition fee</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>3289</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <location>
+        <city>Eindhoven</city>
+      </location>
+      <numberOfContactSessions>8</numberOfContactSessions>
+    </programRun>
+    <programRun>
+      <id>2494402</id>
+      <status>application opened</status>
+      <startDate isFinal="true">2019-09-02</startDate>
+      <endDate isFinal="true">2019-10-21</endDate>
+      <contactHoursPartOfDay>morning</contactHoursPartOfDay>
+      <contactHoursPartOfDay>afternoon</contactHoursPartOfDay>
+      <cost>
+        <amount>90</amount>
+        <amountVAT>8.1</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>study material</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>90</VATExemptAmount>
+        <VATExemptAmountVAT>8.1</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>100</amount>
+        <amountVAT>21</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>registration fee</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>110</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>150</amount>
+        <amountVAT>13.5</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>lunch</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>150</VATExemptAmount>
+        <VATExemptAmountVAT>13.5</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>177</amount>
+        <amountVAT>37.17</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>location</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>194.7</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>225</amount>
+        <amountVAT>47.25</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>examination</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>247.5</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>2990</amount>
+        <amountVAT>627.9</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>tuition fee</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>3289</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <location>
+        <city>Utrecht</city>
+      </location>
+      <numberOfContactSessions>8</numberOfContactSessions>
+    </programRun>
+    <programRun>
+      <id>2494403</id>
+      <status>application opened</status>
+      <startDate isFinal="true">2019-09-02</startDate>
+      <endDate isFinal="true">2019-10-21</endDate>
+      <contactHoursPartOfDay>morning</contactHoursPartOfDay>
+      <contactHoursPartOfDay>afternoon</contactHoursPartOfDay>
+      <cost>
+        <amount>90</amount>
+        <amountVAT>8.1</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>study material</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>90</VATExemptAmount>
+        <VATExemptAmountVAT>8.1</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>100</amount>
+        <amountVAT>21</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>registration fee</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>110</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>150</amount>
+        <amountVAT>13.5</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>lunch</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>150</VATExemptAmount>
+        <VATExemptAmountVAT>13.5</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>177</amount>
+        <amountVAT>37.17</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>location</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>194.7</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>225</amount>
+        <amountVAT>47.25</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>examination</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>247.5</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>2990</amount>
+        <amountVAT>627.9</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>tuition fee</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>3289</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <location>
+        <city>Eindhoven</city>
+      </location>
+      <numberOfContactSessions>8</numberOfContactSessions>
+    </programRun>
+    <programRun>
+      <id>2494430</id>
+      <status>application opened</status>
+      <startDate isFinal="true">2020-03-05</startDate>
+      <endDate isFinal="true">2020-04-16</endDate>
+      <contactHoursPartOfDay>morning</contactHoursPartOfDay>
+      <contactHoursPartOfDay>afternoon</contactHoursPartOfDay>
+      <cost>
+        <amount>90</amount>
+        <amountVAT>8.1</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>study material</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>90</VATExemptAmount>
+        <VATExemptAmountVAT>8.1</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>100</amount>
+        <amountVAT>21</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>registration fee</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>110</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>150</amount>
+        <amountVAT>13.5</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>lunch</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>150</VATExemptAmount>
+        <VATExemptAmountVAT>13.5</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>177</amount>
+        <amountVAT>37.17</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>location</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>194.7</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>225</amount>
+        <amountVAT>47.25</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>examination</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>247.5</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>2990</amount>
+        <amountVAT>627.9</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>tuition fee</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>3289</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <location>
+        <city>Eindhoven</city>
+      </location>
+      <numberOfContactSessions>8</numberOfContactSessions>
+    </programRun>
+    <programRun>
+      <id>2494407</id>
+      <status>application opened</status>
+      <startDate isFinal="true">2019-09-02</startDate>
+      <endDate isFinal="true">2019-10-21</endDate>
+      <contactHoursPartOfDay>morning</contactHoursPartOfDay>
+      <contactHoursPartOfDay>afternoon</contactHoursPartOfDay>
+      <cost>
+        <amount>90</amount>
+        <amountVAT>8.1</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>study material</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>90</VATExemptAmount>
+        <VATExemptAmountVAT>8.1</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>100</amount>
+        <amountVAT>21</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>registration fee</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>110</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>150</amount>
+        <amountVAT>13.5</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>lunch</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>150</VATExemptAmount>
+        <VATExemptAmountVAT>13.5</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>177</amount>
+        <amountVAT>37.17</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>location</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>194.7</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>225</amount>
+        <amountVAT>47.25</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>examination</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>247.5</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>2990</amount>
+        <amountVAT>627.9</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>tuition fee</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>3289</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <location>
+        <city>Arnhem</city>
+      </location>
+      <numberOfContactSessions>8</numberOfContactSessions>
+    </programRun>
+    <programRun>
+      <id>2494401</id>
+      <status>application opened</status>
+      <startDate isFinal="true">2019-09-02</startDate>
+      <endDate isFinal="true">2019-10-21</endDate>
+      <contactHoursPartOfDay>morning</contactHoursPartOfDay>
+      <contactHoursPartOfDay>afternoon</contactHoursPartOfDay>
+      <cost>
+        <amount>90</amount>
+        <amountVAT>8.1</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>study material</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>90</VATExemptAmount>
+        <VATExemptAmountVAT>8.1</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>100</amount>
+        <amountVAT>21</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>registration fee</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>110</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>150</amount>
+        <amountVAT>13.5</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>lunch</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>150</VATExemptAmount>
+        <VATExemptAmountVAT>13.5</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>177</amount>
+        <amountVAT>37.17</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>location</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>194.7</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>225</amount>
+        <amountVAT>47.25</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>examination</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>247.5</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>2990</amount>
+        <amountVAT>627.9</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>tuition fee</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>3289</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <location>
+        <city>Amsterdam</city>
+      </location>
+      <numberOfContactSessions>8</numberOfContactSessions>
+    </programRun>
+    <programRun>
+      <id>2494413</id>
+      <status>application opened</status>
+      <startDate isFinal="true">2019-12-03</startDate>
+      <endDate isFinal="true">2020-01-21</endDate>
+      <contactHoursPartOfDay>morning</contactHoursPartOfDay>
+      <contactHoursPartOfDay>afternoon</contactHoursPartOfDay>
+      <cost>
+        <amount>90</amount>
+        <amountVAT>8.1</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>study material</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>90</VATExemptAmount>
+        <VATExemptAmountVAT>8.1</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>100</amount>
+        <amountVAT>21</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>registration fee</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>110</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>150</amount>
+        <amountVAT>13.5</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>lunch</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>150</VATExemptAmount>
+        <VATExemptAmountVAT>13.5</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>177</amount>
+        <amountVAT>37.17</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>location</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>194.7</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>225</amount>
+        <amountVAT>47.25</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>examination</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>247.5</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>2990</amount>
+        <amountVAT>627.9</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>tuition fee</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>3289</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <location>
+        <city>Groningen</city>
+      </location>
+      <numberOfContactSessions>8</numberOfContactSessions>
+    </programRun>
+    <programRun>
+      <id>2494427</id>
+      <status>application opened</status>
+      <startDate isFinal="true">2020-03-05</startDate>
+      <endDate isFinal="true">2020-04-16</endDate>
+      <contactHoursPartOfDay>morning</contactHoursPartOfDay>
+      <contactHoursPartOfDay>afternoon</contactHoursPartOfDay>
+      <cost>
+        <amount>90</amount>
+        <amountVAT>8.1</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>study material</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>90</VATExemptAmount>
+        <VATExemptAmountVAT>8.1</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>100</amount>
+        <amountVAT>21</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>registration fee</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>110</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>150</amount>
+        <amountVAT>13.5</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>lunch</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>150</VATExemptAmount>
+        <VATExemptAmountVAT>13.5</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>177</amount>
+        <amountVAT>37.17</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>location</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>194.7</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>225</amount>
+        <amountVAT>47.25</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>examination</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>247.5</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>2990</amount>
+        <amountVAT>627.9</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>tuition fee</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>3289</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <location>
+        <city>Rotterdam</city>
+      </location>
+      <numberOfContactSessions>8</numberOfContactSessions>
+    </programRun>
+    <programRun>
+      <id>2494416</id>
+      <status>application opened</status>
+      <startDate isFinal="true">2019-12-03</startDate>
+      <endDate isFinal="true">2020-01-21</endDate>
+      <contactHoursPartOfDay>morning</contactHoursPartOfDay>
+      <contactHoursPartOfDay>afternoon</contactHoursPartOfDay>
+      <cost>
+        <amount>90</amount>
+        <amountVAT>8.1</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>study material</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>90</VATExemptAmount>
+        <VATExemptAmountVAT>8.1</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>100</amount>
+        <amountVAT>21</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>registration fee</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>110</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>150</amount>
+        <amountVAT>13.5</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>lunch</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>150</VATExemptAmount>
+        <VATExemptAmountVAT>13.5</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>177</amount>
+        <amountVAT>37.17</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>location</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>194.7</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>225</amount>
+        <amountVAT>47.25</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>examination</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>247.5</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>2990</amount>
+        <amountVAT>627.9</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>tuition fee</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>3289</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <location>
+        <city>Utrecht</city>
+      </location>
+      <numberOfContactSessions>8</numberOfContactSessions>
+    </programRun>
+    <programRun>
+      <id>2494400</id>
+      <status>application opened</status>
+      <startDate isFinal="true">2019-09-02</startDate>
+      <endDate isFinal="true">2019-10-21</endDate>
+      <contactHoursPartOfDay>morning</contactHoursPartOfDay>
+      <contactHoursPartOfDay>afternoon</contactHoursPartOfDay>
+      <cost>
+        <amount>90</amount>
+        <amountVAT>8.1</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>study material</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>90</VATExemptAmount>
+        <VATExemptAmountVAT>8.1</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>100</amount>
+        <amountVAT>21</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>registration fee</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>110</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>150</amount>
+        <amountVAT>13.5</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>lunch</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>150</VATExemptAmount>
+        <VATExemptAmountVAT>13.5</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>177</amount>
+        <amountVAT>37.17</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>location</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>194.7</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>225</amount>
+        <amountVAT>47.25</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>examination</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>247.5</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>2990</amount>
+        <amountVAT>627.9</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>tuition fee</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>3289</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <location>
+        <city>Rotterdam</city>
+      </location>
+      <numberOfContactSessions>8</numberOfContactSessions>
+    </programRun>
+    <programRun>
+      <id>2494414</id>
+      <status>application opened</status>
+      <startDate isFinal="true">2019-12-03</startDate>
+      <endDate isFinal="true">2020-01-21</endDate>
+      <contactHoursPartOfDay>morning</contactHoursPartOfDay>
+      <contactHoursPartOfDay>afternoon</contactHoursPartOfDay>
+      <cost>
+        <amount>90</amount>
+        <amountVAT>8.1</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>study material</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>90</VATExemptAmount>
+        <VATExemptAmountVAT>8.1</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>100</amount>
+        <amountVAT>21</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>registration fee</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>110</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>150</amount>
+        <amountVAT>13.5</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>lunch</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>150</VATExemptAmount>
+        <VATExemptAmountVAT>13.5</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>177</amount>
+        <amountVAT>37.17</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>location</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>194.7</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>225</amount>
+        <amountVAT>47.25</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>examination</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>247.5</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>2990</amount>
+        <amountVAT>627.9</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>tuition fee</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>3289</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <location>
+        <city>Rotterdam</city>
+      </location>
+      <numberOfContactSessions>8</numberOfContactSessions>
+    </programRun>
+    <programRun>
+      <id>2494434</id>
+      <status>application opened</status>
+      <startDate isFinal="true">2020-03-05</startDate>
+      <endDate isFinal="true">2020-04-16</endDate>
+      <contactHoursPartOfDay>morning</contactHoursPartOfDay>
+      <contactHoursPartOfDay>afternoon</contactHoursPartOfDay>
+      <cost>
+        <amount>90</amount>
+        <amountVAT>8.1</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>study material</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>90</VATExemptAmount>
+        <VATExemptAmountVAT>8.1</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>100</amount>
+        <amountVAT>21</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>registration fee</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>110</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>150</amount>
+        <amountVAT>13.5</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>lunch</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>150</VATExemptAmount>
+        <VATExemptAmountVAT>13.5</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>177</amount>
+        <amountVAT>37.17</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>location</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>194.7</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>225</amount>
+        <amountVAT>47.25</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>examination</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>247.5</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>2990</amount>
+        <amountVAT>627.9</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>tuition fee</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>3289</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <location>
+        <city>Arnhem</city>
+      </location>
+      <numberOfContactSessions>8</numberOfContactSessions>
+    </programRun>
+    <programRun>
+      <id>2494406</id>
+      <status>application opened</status>
+      <startDate isFinal="true">2019-09-02</startDate>
+      <endDate isFinal="true">2019-10-21</endDate>
+      <contactHoursPartOfDay>morning</contactHoursPartOfDay>
+      <contactHoursPartOfDay>afternoon</contactHoursPartOfDay>
+      <cost>
+        <amount>90</amount>
+        <amountVAT>8.1</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>study material</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>90</VATExemptAmount>
+        <VATExemptAmountVAT>8.1</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>100</amount>
+        <amountVAT>21</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>registration fee</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>110</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>150</amount>
+        <amountVAT>13.5</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>lunch</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>150</VATExemptAmount>
+        <VATExemptAmountVAT>13.5</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>177</amount>
+        <amountVAT>37.17</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>location</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>194.7</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>225</amount>
+        <amountVAT>47.25</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>examination</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>247.5</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>2990</amount>
+        <amountVAT>627.9</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>tuition fee</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>3289</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <location>
+        <city>Den Haag</city>
+      </location>
+      <numberOfContactSessions>8</numberOfContactSessions>
+    </programRun>
+    <programRun>
+      <id>2494428</id>
+      <status>application opened</status>
+      <startDate isFinal="true">2020-03-05</startDate>
+      <endDate isFinal="true">2020-04-16</endDate>
+      <contactHoursPartOfDay>morning</contactHoursPartOfDay>
+      <contactHoursPartOfDay>afternoon</contactHoursPartOfDay>
+      <cost>
+        <amount>90</amount>
+        <amountVAT>8.1</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>study material</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>90</VATExemptAmount>
+        <VATExemptAmountVAT>8.1</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>100</amount>
+        <amountVAT>21</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>registration fee</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>110</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>150</amount>
+        <amountVAT>13.5</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>lunch</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>150</VATExemptAmount>
+        <VATExemptAmountVAT>13.5</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>177</amount>
+        <amountVAT>37.17</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>location</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>194.7</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>225</amount>
+        <amountVAT>47.25</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>examination</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>247.5</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>2990</amount>
+        <amountVAT>627.9</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>tuition fee</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>3289</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <location>
+        <city>Amsterdam</city>
+      </location>
+      <numberOfContactSessions>8</numberOfContactSessions>
+    </programRun>
+    <programRun>
+      <id>2494404</id>
+      <status>application opened</status>
+      <startDate isFinal="true">2019-09-02</startDate>
+      <endDate isFinal="true">2019-10-21</endDate>
+      <contactHoursPartOfDay>morning</contactHoursPartOfDay>
+      <contactHoursPartOfDay>afternoon</contactHoursPartOfDay>
+      <cost>
+        <amount>90</amount>
+        <amountVAT>8.1</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>study material</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>90</VATExemptAmount>
+        <VATExemptAmountVAT>8.1</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>100</amount>
+        <amountVAT>21</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>registration fee</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>110</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>150</amount>
+        <amountVAT>13.5</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>lunch</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>150</VATExemptAmount>
+        <VATExemptAmountVAT>13.5</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>177</amount>
+        <amountVAT>37.17</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>location</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>194.7</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>225</amount>
+        <amountVAT>47.25</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>examination</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>247.5</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>2990</amount>
+        <amountVAT>627.9</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>tuition fee</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>3289</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <location>
+        <city>Zwolle</city>
+      </location>
+      <numberOfContactSessions>8</numberOfContactSessions>
+    </programRun>
+    <programRun>
+      <id>2494419</id>
+      <status>application opened</status>
+      <startDate isFinal="true">2019-12-03</startDate>
+      <endDate isFinal="true">2020-01-21</endDate>
+      <contactHoursPartOfDay>morning</contactHoursPartOfDay>
+      <contactHoursPartOfDay>afternoon</contactHoursPartOfDay>
+      <cost>
+        <amount>90</amount>
+        <amountVAT>8.1</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>study material</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>90</VATExemptAmount>
+        <VATExemptAmountVAT>8.1</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>100</amount>
+        <amountVAT>21</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>registration fee</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>110</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>150</amount>
+        <amountVAT>13.5</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>lunch</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>150</VATExemptAmount>
+        <VATExemptAmountVAT>13.5</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>177</amount>
+        <amountVAT>37.17</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>location</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>194.7</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>225</amount>
+        <amountVAT>47.25</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>examination</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>247.5</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>2990</amount>
+        <amountVAT>627.9</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>tuition fee</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>3289</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <location>
+        <city>Nijmegen</city>
+      </location>
+      <numberOfContactSessions>8</numberOfContactSessions>
+    </programRun>
+    <programRun>
+      <id>2494432</id>
+      <status>application opened</status>
+      <startDate isFinal="true">2020-03-05</startDate>
+      <endDate isFinal="true">2020-04-16</endDate>
+      <contactHoursPartOfDay>morning</contactHoursPartOfDay>
+      <contactHoursPartOfDay>afternoon</contactHoursPartOfDay>
+      <cost>
+        <amount>90</amount>
+        <amountVAT>8.1</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>study material</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>90</VATExemptAmount>
+        <VATExemptAmountVAT>8.1</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>100</amount>
+        <amountVAT>21</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>registration fee</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>110</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>150</amount>
+        <amountVAT>13.5</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>lunch</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>150</VATExemptAmount>
+        <VATExemptAmountVAT>13.5</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>177</amount>
+        <amountVAT>37.17</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>location</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>194.7</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>225</amount>
+        <amountVAT>47.25</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>examination</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>247.5</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>2990</amount>
+        <amountVAT>627.9</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>tuition fee</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>3289</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <location>
+        <city>Nijmegen</city>
+      </location>
+      <numberOfContactSessions>8</numberOfContactSessions>
+    </programRun>
+    <programRun>
+      <id>2494420</id>
+      <status>application opened</status>
+      <startDate isFinal="true">2019-12-03</startDate>
+      <endDate isFinal="true">2020-01-21</endDate>
+      <contactHoursPartOfDay>morning</contactHoursPartOfDay>
+      <contactHoursPartOfDay>afternoon</contactHoursPartOfDay>
+      <cost>
+        <amount>90</amount>
+        <amountVAT>8.1</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>study material</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>90</VATExemptAmount>
+        <VATExemptAmountVAT>8.1</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>100</amount>
+        <amountVAT>21</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>registration fee</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>110</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>150</amount>
+        <amountVAT>13.5</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>lunch</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>150</VATExemptAmount>
+        <VATExemptAmountVAT>13.5</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>177</amount>
+        <amountVAT>37.17</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>location</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>194.7</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>225</amount>
+        <amountVAT>47.25</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>examination</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>247.5</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>2990</amount>
+        <amountVAT>627.9</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>tuition fee</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>3289</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <location>
+        <city>Den Haag</city>
+      </location>
+      <numberOfContactSessions>8</numberOfContactSessions>
+    </programRun>
+    <programRun>
+      <id>2494415</id>
+      <status>application opened</status>
+      <startDate isFinal="true">2019-12-03</startDate>
+      <endDate isFinal="true">2020-01-21</endDate>
+      <contactHoursPartOfDay>morning</contactHoursPartOfDay>
+      <contactHoursPartOfDay>afternoon</contactHoursPartOfDay>
+      <cost>
+        <amount>90</amount>
+        <amountVAT>8.1</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>study material</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>90</VATExemptAmount>
+        <VATExemptAmountVAT>8.1</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>100</amount>
+        <amountVAT>21</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>registration fee</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>110</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>150</amount>
+        <amountVAT>13.5</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>lunch</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>150</VATExemptAmount>
+        <VATExemptAmountVAT>13.5</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>177</amount>
+        <amountVAT>37.17</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>location</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>194.7</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>225</amount>
+        <amountVAT>47.25</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>examination</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>247.5</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>2990</amount>
+        <amountVAT>627.9</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>tuition fee</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>3289</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <location>
+        <city>Amsterdam</city>
+      </location>
+      <numberOfContactSessions>8</numberOfContactSessions>
+    </programRun>
+    <programRun>
+      <id>2494421</id>
+      <status>application opened</status>
+      <startDate isFinal="true">2019-12-03</startDate>
+      <endDate isFinal="true">2020-01-21</endDate>
+      <contactHoursPartOfDay>morning</contactHoursPartOfDay>
+      <contactHoursPartOfDay>afternoon</contactHoursPartOfDay>
+      <cost>
+        <amount>90</amount>
+        <amountVAT>8.1</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>study material</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>90</VATExemptAmount>
+        <VATExemptAmountVAT>8.1</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>100</amount>
+        <amountVAT>21</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>registration fee</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>110</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>150</amount>
+        <amountVAT>13.5</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>lunch</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>150</VATExemptAmount>
+        <VATExemptAmountVAT>13.5</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>177</amount>
+        <amountVAT>37.17</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>location</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>194.7</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>225</amount>
+        <amountVAT>47.25</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>examination</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>247.5</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <cost>
+        <amount>2990</amount>
+        <amountVAT>627.9</amountVAT>
+        <amountIsFinal>true</amountIsFinal>
+        <costType>tuition fee</costType>
+        <currency>eur</currency>
+        <isRequiredCost>true</isRequiredCost>
+        <VATExemptAmount>3289</VATExemptAmount>
+        <VATExemptAmountVAT>0</VATExemptAmountVAT>
+      </cost>
+      <location>
+        <city>Arnhem</city>
+      </location>
+      <numberOfContactSessions>8</numberOfContactSessions>
+    </programRun>
+  </programSchedule>
+</program>

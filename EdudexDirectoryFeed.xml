@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edudexDirectory xmlns="http://studieData.nl/schema/edudex/directory" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://studieData.nl/schema/edudex/directory http://studieData.nl/schema/edudex/directory.xsd">
+  <editor>hvangalen@ncoi.nl</editor>
+  <generator>SQL Server 2014</generator>
+  <version>0.90429</version>
+  <orgUnitId>btvo</orgUnitId>
+  <programResource>
+    <programId>B-AUL1d</programId>
+    <resourceUrl>https://github.com/WisdomSS/TestEdudex/raw/master/ProgramFeed.xml</resourceUrl>
+  </programResource>
+</edudexDirectory>
